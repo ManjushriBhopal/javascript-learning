@@ -1,6 +1,6 @@
 {
   "name": "javascript-learning",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To learn Javascript",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "keywords": [
     "Javscript"
   ],
-  "author": "Manju",
+  "author": "Manjushri",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ManjushriBhopal/javascript-learning/issues"
