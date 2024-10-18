@@ -1,0 +1,22 @@
+{
+  "name": "javascript-learning",
+  "version": "1.0.0",
+  "description": "To learn Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjushriBhopal/javascript-learning.git"
+  },
+  "keywords": [
+    "Javscript"
+  ],
+  "author": "Manju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjushriBhopal/javascript-learning/issues"
+  },
+  "homepage": "https://github.com/ManjushriBhopal/javascript-learning#readme"
+}
